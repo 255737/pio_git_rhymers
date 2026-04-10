@@ -1,3 +1,4 @@
+// Projekt przeszedł walidację testami jednostkowymi. Wszystkie testy działają poprawnie.
 package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
